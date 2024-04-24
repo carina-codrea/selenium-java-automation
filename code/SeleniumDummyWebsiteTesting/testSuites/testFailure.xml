@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test failure">
+    <groups>
+        <run>
+            <include name="failure"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="codrea.testComponents.Listener"/>
+    </listeners>
+    <test name="Validations">
+        <classes>
+         <class name="codrea.tests.CartTest"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Form Validations">
+    <groups>
+        <run>
+            <include name="formValidations"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="codrea.testComponents.Listener"/>
+    </listeners>
+    <test verbose="2" name="Validations">
+        <classes>
+            <class name="codrea.tests.LoginTest"/>
+            <class name="codrea.tests.RegisterTest"/>
+            <class name="codrea.tests.ChangePasswordTest"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,14 @@
+Valid data:
+
+ -First Name must be 3 or more characters long.
+
+ -Last name must be 3 to 20 characters long.
+
+ -Phone Number must be 10 digit and only numbers are allowed.
+
+ -Password and Confirm Password must match with each other.
+
+ -Password must be at least 8 characters long and must have 1 special character, 1 capital 1, numeric 1 small.
+
+ -Email must contain characters before the '@' symbol and end with either '@gmail.com' or '@yahoo.com'.
+

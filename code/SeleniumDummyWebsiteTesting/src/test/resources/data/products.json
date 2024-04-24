@@ -1,0 +1,10 @@
+[
+  {
+    "scenario" : "single",
+    "products": ["ZARA COAT 3"]
+  },
+  {
+    "scenario" : "multiple",
+    "products": ["ADIDAS ORIGINAL","IPHONE 13 PRO","ZARA COAT 3"]
+  }
+]

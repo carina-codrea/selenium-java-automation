@@ -1,0 +1,14 @@
+[
+{
+  "email":"selenium-tester@gmail.com",
+  "password": "Pass123@",
+  "products": ["ZARA COAT 3"],
+  "country": "Romania"
+},
+{
+  "email":"tester@yahoo.com",
+  "password": "SeleniumLearning27.",
+  "products": ["ZARA COAT 3","IPHONE 13 PRO","ADIDAS ORIGINAL"],
+  "country": "India"
+}
+]

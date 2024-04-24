@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Toast Validations">
+    <groups>
+        <run>
+            <include name="toastValidations"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="codrea.testComponents.Listener"/>
+    </listeners>
+    <test verbose="2" name="Validations">
+        <classes>
+            <class name="codrea.tests.LoginTest"/>
+            <class name="codrea.tests.RegisterTest"/>
+            <class name="codrea.tests.ChangePasswordTest"/>
+            <class name="codrea.tests.CartTest"/>
+            <class name="codrea.tests.CheckoutTest"/>
+            <class name="codrea.tests.OrderTest"/>
+            <class name="codrea.tests.ProductTest"/>
+            <class name="codrea.tests.SignOutTest"/>
+
+        </classes>
+    </test>
+
+</suite>

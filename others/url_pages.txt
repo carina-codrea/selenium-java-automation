@@ -1,0 +1,6 @@
+Login page : "https://rahulshettyacademy.com/client/auth/login"
+Homepage : "https://rahulshettyacademy.com/client/dashboard/dash"
+Cart page : "https://rahulshettyacademy.com/client/dashboard/cart"
+Orders page : "https://rahulshettyacademy.com/client/dashboard/myorders"
+Checkout page : "https://rahulshettyacademy.com/client/dashboard/order?prop"
+Order Confirmation page : "https://rahulshettyacademy.com/client/dashboard/thanks?prop="
